@@ -24,16 +24,44 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudama011&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Iara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Iara-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Iara-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Iara-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Iara-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img alt="Iara-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Iara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div style="display: inline-block">
+  <div>
+    <h3>Languages</h3>
+    <img alt="C/C++" height="30" width="40" src="icon-url">
+    <img alt="DSA" height="30" width="40" src="icon-url">
+    <img alt="JavaScript" height="30" width="40" src="icon-url">
+    <img alt="SQL (MySQL)" height="30" width="40" src="icon-url">
+    <img alt="HTML/CSS" height="30" width="40" src="icon-url">
+  </div>
+  <div>
+    <h3>Frameworks</h3>
+    <img alt="ReactJs" height="30" width="40" src="icon-url">
+    <img alt="Node.js" height="30" width="40" src="icon-url">
+    <img alt="Express" height="30" width="40" src="icon-url">
+    <img alt="Firebase" height="30" width="40" src="icon-url">
+    <img alt="Mongoose" height="30" width="40" src="icon-url">
+    <img alt="Bootstrap" height="30" width="40" src="icon-url">
+    <img alt="Tailwind CSS" height="30" width="40" src="icon-url">
+    <img alt="React Native" height="30" width="40" src="icon-url">
+  </div>
+  <div>
+    <h3>Libraries</h3>
+    <img alt="React icon" height="30" width="40" src="icon-url">
+    <img alt="Chakra UI" height="30" width="40" src="icon-url">
+    <img alt="Redux" height="30" width="40" src="icon-url">
+  </div>
+  <div>
+    <h3>Developer Tools</h3>
+    <img alt="Git" height="30" width="40" src="icon-url">
+    <img alt="Github" height="30" width="40" src="icon-url">
+    <img alt="VS Code" height="30" width="40" src="icon-url">
+  </div>
+  <div>
+    <h3>Soft Skills</h3>
+    <p>Teamwork, Communication, Adaptability</p>
+  </div>
 </div>
+
 
 ##
 
